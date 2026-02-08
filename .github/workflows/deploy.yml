@@ -2,7 +2,7 @@ name: Deploy Quartz to Droplet
 on:
   push:
     branches:
-      - v4
+      - main
 
 jobs:
   deploy:
