@@ -1,0 +1,129 @@
+---
+title: The Obstacle Is The Way By Ryan Holiday
+date: 2024-01-01 00:00:00+00:00
+draft: false
+description: Ryan Holiday’s *The Obstacle Is the Way* argues that obstacles are opportunities for growth, guided by three interrelated principles—perception, action, and will—so we think clearly, act correctly, and accept reality as it is.
+---
+
+- Tags: [[books]] [[Philosophy]] [[Stoicism]]
+- [The Obstacle is the Way: The timeless art of turning trials into triumph by Ryan Holiday](https://www.amazon.com/dp/B00IX49OS4/) 
+- ## Conclusion:
+    - First, think clearly.
+    - Next, act correctly.
+    - Finally, endure and accept the world as it is.
+- ## Notes
+    - **Introduction:**
+        - Not "be positive" but learn to be ceaselessly creative and opportunistic. Not "this is not so bad" but "I can make this good."
+        - The obstacle is the path becomes the path. Never forget, within every obstacle is an opportunity to improve our condition
+        - When you have a goal, obstacles are actually teaching you how to get where you want to go - carving you a path. "The things which hurt," Ben Franklin wrote, "instruct."
+        - It's three interdependent interconnected and fluidly contingent principles: **Perception, Action, and Will**
+    - **Perception -**  change the way you view the obstacles in your life. See these obstacles as opportunities to grow. There is always a lesson to be learned. Life is full of obstacles - your goal is to overcome them and become the best self that you can be.
+    - Every one of the "obstacles" in your life is actually an opportunity for growth and development - learn to see it that way. You have the power to control the perception of your life. Focus on changing what you can instead of getting frustrated about factors beyond your control.
+        - Perception is learned behavior
+        - You will come across obstacles in life - fair and unfair. And you will discover, time and time again, that what matters most is not what these obstacles are but how we see them, how we react to them, and whether we keep our composure. You will learn that this reaction determines how successful we will be in overcoming - or possibly thriving - because of them
+        - We can learn to perceive things differently, to cut through the illusions that others believe or fear. We can stop seeing the "problems" in front of us as problems. We can learn to focus on what things really are.
+        - There are a few things to keep in mind when faced with a seemingly insurmountable obstacle. We must try:
+            - to be objective
+            - to control emotions and keep an even keep
+            - to choose to see the good in a situation
+            - to steady our nerves
+            - to ignore what disturbs or limits others
+            - to place things in perspective
+            - to revert to the present moment
+            - to focus on what can be controlled
+        - **Recognize your power**
+            - This can't harm me - I might not have wanted it to happen, but I decide how it will affect me. __No one else has the right.__
+            - We are never completely powerless
+            - Through our perception of events, we are complicit in the creation - as well as the destruction - of every one of our obstacles
+            - Just because your mind tells you that something is awful or evil or unplanned or otherwise negative doesn't mean you have to agree. Just because other people say that something is hopeless or crazy or broken to pieces doesn't mean it is. We decide what story to tell ourselves. Or whether we will tell one at all.
+            - There is always a countermove, always an escape or a way through, so there is no reason to get worked up. No one said it would be easy and of course the stakes are high but the path is there for those ready to take it
+        - **Control your emotions**
+            - This is the skill that must be cultivated - freedom from disturbance and perturbation - so you can focus your energy exclusively on solving problems rather than reacting to them
+            - If you need to take a moment, by all means, go ahead. Real strength lies in the control or domestication of ones emotions, not in pretending they don't exist
+            - We defeat emotions with logic, which is questions and statements. With enough of them we get to root causes, which are always easier to deal with.
+                - Ex: we lost money
+                - But aren't losses a pretty common part of business?
+                - Yes
+                - Are these losses catastrophic?
+                - Not necessarily
+                - So this is not totally unexpected is it? How could that be so bad? Why are you so worked up over something that is at least occasionally supposed to happen?
+                - Well, uhh, I...
+            - After all, you're probably not going to die from any of this. It might help to say it over and over again whenever you feel the anxiety begin to come on: I am not going to die from this.
+        - **Practice objectivity**
+            - Take your situation and pretend it is not happening to you. Pretend it is not important, that it doesn't matter. How much easier would it be for you to know what to do? How much more quickly and dispassionately could you size up the scenario and it's options? You could write it off, greet it calmly
+        - **Alter your perspective**
+            - We choose how we look at things. We can't change the obstacles themselves but the power of perspective can change how the obstacles appear. How we approach, view and contextualize an obstacle and what we tell ourselves it means determines how daunting and trying it will be to overcome.
+            - Is our perspective truly giving us perspective or is it actually what's causing the problem?
+            - Two parts of perspective
+                - Context - a sense of larger pic of world not just what's immediately in front of us
+                - Framing - individual's unique way of looking at the world and interpreting events
+            - Every ounce of energy directed at things we can't actually influence is wasted. So much power - ours and other people's - is frittered away in this manner
+        - **Live in the present moment**
+            - Focus on the moment, not the monsters that may or may not be up ahead.
+            - It's not simply a matter of saying "oh I'll live in the present." You have to work at it. Catch your mind when it wanders - don't let it get away from you. Discard distracting thoughts. Leave things well enough alone - no matter how much you feel like doing otherwise.
+        - **Think differently**
+            - When we believe in the obstacle more than in the goal, which will inevitably triumph?
+        - **Finding the opportunity**
+            - It's our preconceptions that are the problem. They tell us that things should or need to be a certain way, so when they're not, we naturally assume that we are at a disadvantage or that we'd be wasting our time to pursue an alternate course. When really it's all fair game and every situation is an opportunity for us to act.
+        - **Prepare to act**
+            - Problems are rarely as bad as we think - or rather, they are precisely as bad as we think.
+    - **Action-** the solution and cure to our predicaments
+    - There's never a "perfect" time to do something. The only way that you can overcome the obstacles in your life and grow from these opportunities is to take action, one step at a time. Instead of getting overwhelmed with the entire process or end goal, focus on making decisions step by step to get where you want to be.
+        - **The discipline of action**
+            - He would be successful precisely because of what he'd been through and how he'd reacted to it.
+        - **Get moving**
+            - Just because conditions aren't exactly to your liking or you don't feel ready yet doesn't mean you get a pass. If you want momentum, you'll have to create it yourself, right now, by getting up and getting started.
+        - **Practice persistence**
+            - If we're to overcome our obstacles this is the message to broadcast - internally and externally. We will not be stopped by failure, we will not be rushed or distracted by external noise. We will chisel and peg away at the obstacle until it is gone. Resistance is futile.
+            - Remember and remind yourself of a phrase favored by Epictetus: persist and resist. Persist in your efforts. Resist giving into distraction, discouragement, or disorder.
+        - **Iterate**
+            - When failure does come, ask: what went wrong here? What can be improved? What am I missing?
+            - With a business we take most failures less personally and understand they're part of the process.
+            - It's time you understand that the world is telling you something with each and every failure and action.
+        - **Follow the Process**
+            - You've got to do something very difficulty. Don't focus on that. Instead break it down into pieces. Simply do what you need to do right now. And do it well. And then move on to the next thing. Follow the process and not the prize.
+            - Being trapped is just a position, not a fate. You get out of it by addressing and eliminating each part of that position through small, deliberate actions - not by truing (and failing) to push it away with superhuman strength.
+        - **What's right is what works**
+            - We spend a lot of time thinking about how things are supposed to be, or what the rules say we should do. Trying to get it all perfect. We tell ourselves that we'll get started once the conditions are right, or once we're sure we can trust this or that. When really it'd be better to focus on making due with what we've got. On focusing on results instead of pretty methods.
+            - Start thinking like a radical pragmatist: still ambitious, aggressive, and rooted in ideals, but also imminiently practical and guided by the possible
+            - Take a step back, then go around the problem. Find some leverage. Approach from what is called the "line of least expectation"
+        - **Use obstacles against themselves**
+            - We also have to be ready to see that restraint might be the best action for us to take. Sometimes in you life you need to have patience - wait for temporary obstacles to fizzle out.
+        - **Channel your energy**
+            - "When jarred, unavoidably, by circumstance revert at once to yourself and don't lose the rhythm more than you can help. You'll have a better grasp of harmony if you keep going back to it." - Marcus Aurelius
+            - He was free where it mattered: inside
+            - Instead of giving in to frustration, we can put it to good use. It can power our actions, which, unlike our disposition, become stronger and better when loose and bold. While others obsess with observing the rules, we're subtly undermining them and subverting them to our advantage.
+            - Those athletes might be stopped from carrying out this or that action, but not from their goal. External factors influence the path, but not the direction: forward
+        - **Seize the offensive**
+            - What you must do is learn how to press forward precisely when everyone around you sees disaster
+            - Well, now something has happened - some disruptive event like a failure or an accident or a tragedy. __Use it.__
+        - **Prepare for none of it to work**
+            - In every situation, that which blocks our path actually presents a new path with a new part of us.
+            - Sometimes, no amount of planning, no amount of thinking - no matter how hard we try or patiently we persist - will change the fact that some things just aren't going to work.
+            - We have it within us to be the type of people who try to get things done, try with everything we've got and, whatever verdict comes in, are ready to accept it instantly and move onto whatever is next.
+    - **Will**  - will is our internal power, which can never be affected by the outside world. if action is what we do when we still have some agency over our situation, the will is what we depend on when agency has all but disappeared.
+        - **The discipline of the will** - Lincoln's inner strength
+            - Lincoln's personal challenges had been so intense that he came to believe they were destined for him in some way, and that the depression, especially, was a unique experience that prepared him for greater things. He learned to endure all this, articulate it, and find benefit and meaning from it. Understanding this is key to understanding the man's greatness.
+            - Will is fortitude and wisdom - not just about specific obstacles but about life itself and where the obstacles we are facing fit within it. It gives us ultimate strength. As in: the strength to endure, contextualize, and derive meaning from the obstacles we simply cannot overcome (which as it happens is the way of flipping the unflippable)
+            - Lincoln's words went to the people's hearts because they came from his, because he had access to a part of the human experience that many had walled themselves off from. His personal pain was an advantage.
+        - **Build your inner citadel**
+            - What stoics call the inner citadel, that fortress inside of us that no external adversity can ever break down. An important caveat is that we are not born with such a structure; it must be built and actively reinforced. During the good times, we strengthen ourselves and our bodies so that during the difficult times we can depend on it. We protect our inner fortress so it may protect us.
+            - Sometimes the only answer to "What if..." is __It will suck but we'll be okay.__
+        - **The art of acquiescence**
+            - When the cause of a problem lies outside of us, we are better for accepting it and moving on. For ceasing to kick and fight against it and coming to terms with it.
+            - You're looking at a big enough picture and long-enough timeline that whatever you have to accept is still only a negligible blip on the way to your goal.
+        - **Love everything that happens: amor fati**
+            - it is the act of turning what we must do into what we get to do
+            - Thinking, I feel great about this. Because if it happened, then it was meant to happen, and I am glad that it did when it did. I am meant to make the most of it.
+            - We don't get to choose what happens to us, but we can always choose how we feel about it.
+        - **Perseverance**
+            - Life is not about one obstacle, but many. What's required of us is not some shortsighted focus on a single facet of a problem, but simply a determination that we will get to where we need to go, somehow, someway, and nothing will stop us.
+            - There are far more failures in the world due to a collapse of will than there will ever be from objectively conclusive personal events.
+        - **Something bigger than yourself**
+            - If I can't solve this for myself, how can I at least make this better for other people?
+            - What doesn't help anyone is making this all about you, all the time. Why did this happen to me? What am I going to do about this?
+            - Whatever you're going through, whatever is holding you down or standing in your way, can be turned into a source of strength - by thinking of people other than yourself.
+            - Stop pretending that what you're going through is somehow special or unfair. Whatever trouble you're having - no matter how difficult - is not some unique misfortune picked out especially for you. It just is what it is.
+            - You can always remember that a decade earlier, a century earlier, a millennium earlier, someone just like you stood right where you are and felt very similar things, struggling with the very same thoughts. They had no idea that you would exist, but you know that they did. And a century from now, someone will be in your exact same position, once more. Embrace this power, this sense of being part of a larger whole. It is an exhilarating thought.
+        - **Prepare to start again**
+        - Knowing that life is a marathon and not a sprint is important. Conserve your energy. Understand that each battle is only one of many and that you can use it to make the next one easier. More important, you must keep them all in real perspective.

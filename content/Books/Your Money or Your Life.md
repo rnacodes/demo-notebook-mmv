@@ -1,0 +1,56 @@
+---
+title: Your Money Or Your Life
+date: 2024-01-01 00:00:00+00:00
+draft: false
+description: Life is more than work; treat money as an exchange for your limited time and define personal success beyond material wealth. By finding non‑consumer ways to meet inner needs, you can achieve financial independence and lasting fulfillment.
+---
+
+- Tags: [[books]] [[Financial Independence]] [[starred]] [[Money]] [[Life Advice]] [[Early Retirement]]
+- Main Lessons:
+    - Life is about more than just working
+    - Learn to separate work from yourself from your value
+    - Remember that money is actually a trade in your (limited) life hours
+    - Figure out how much is enough to life comfortably and satisfy your needs without greed
+    - Stop coveting and envying those that seem to have "the good life" or are living the American Dream - this is a sure path to a lack of satisfaction with your own life and what you have earned so far.
+    - Create your own internal measures of success and fulfillment, even if these differ from society's expectations of what you "should" strive for
+    - Figure out non-material/consumer methods for satisfying your inner needs
+- Quotes and Highlights:
+    - To change your spending habits, transform the way that you think about money and satisfying your needs. Remember that you are trading money for your most precious resource: your time. Discover new, non-consumer ways of inner fulfillment and free yourself from the consumer traps that keep people in a material cycle of unfulfillment. Frugality means finding more fulfilling, creative, and non-traditional ways of satisfying these needs instead of trying to "buy" solutions to your problems
+        - If you live for having it all, what you have is never enough.
+        - We no longer live life. We consume it.[Read more at location 754](kindle://book/?action=open&asin=B0052MD8VO&location=754) • Delete this highlight
+        - [Add a note](https://kindle.amazon.com/user_annotation_relation/edit_note_popup?annotation_id=&asin=B0052MD8VO&attached=a1AZGGUKE6HM6Q&end_location=113074&note_area_id=editNotea1AZGGUKE6HM6Q_&note_text=&return_to=%2Fyour_highlights)
+        - Our enormously productive economy . . . demands that we make consumption our way of life, that we convert the buying and use of goods into rituals, that we seek our spiritual satisfaction, our ego satisfaction, in consumption.... We need things consumed, burned up, worn out, replaced, and discarded at an ever increasing rate.
+        - We have learned to seek external solutions to signals from the mind, heart or soul that something is out of balance. We try to satisfy essentially psychological and spiritual needs with consumption at a physical level.
+        - Notice that while each one was still a thrill, it cost more per thrill and the “high” wore off more quickly.
+        - Part of the secret to life, it would seem, comes from identifying for yourself that point of maximum fulfillment.
+        - Isn’t meaningless activity a form of clutter?
+        - So much dissatisfaction comes from focusing on what we don’t have that the simple exercise of acknowledging and valuing what we do have can transform our outlook. Indeed, some people would say that, once we’re above the survival level, the difference between prosperity and poverty lies simply in our degree of gratitude
+        - The cause of fat is not really the calories in the food, it’s the desires in our mind
+        - Just notice that translating dollars into hours of your life reveals the real trade-offs you are making for your style of living.
+        - You may discover that you’ve been measuring your fulfillment, or lack of it, by what those around you have or by what advertising says you should want. Being fulfilled is having just enough.
+        - Are your values and life purpose clear, or are they out of focus, buried under the weight of a lifestyle that doesn’t seem to fit?
+        - For many people, the values expressed in their expenditures are not the values they really want to be living.
+        - Our own experience and that of seminar participants is that “enough” has four components, four common qualities: 1. Accountability, knowing how much money is flowing into and out of your life, is basic Financial Intelligence. Clearly, if you never know how much you have or where it’s all going, you can never have enough. 2. An internal yardstick for fulfillment. As we pointed out earlier, you can never have enough if you are measuring by what others have or think. 3. A purpose in life higher than satisfying your own wants and desires, because you can never have enough if every desire becomes a need that must be filled. Desire begets desire. That’s what the astute potato-chip company told us when it said, “Bet you can’t eat just one.” If you base your sense of having enough on your wants and desires it will be, at best, an ephemeral experience.
+        - Beyond the point of enough, we achieve happiness by exercising our capacity to give. If you have a purpose for your life that is higher than getting more and getting ahead, your energies will be focused on fulfilling that purpose
+        - Waste lies not in the number of possessions but in the failure to enjoy them. Your success at being frugal is measured not by your penny-pinching but by your degree of enjoyment of the material world.
+        - To be frugal means to have a high joy-to-stuff ratio. If you get one unit of joy for each material possession, that’s frugal. But if you need ten possessions to even begin registering on the joy meter, you’re missing the point of being alive.
+        - All too often it’s not material things we enjoy as much as what these things symbolize: conquest, status, success, achievement, a sense of worth
+        - Everything you purchase has its origin in the earth. Everything.
+        - In other words, there’s a difference between needs and the strategies we use to “satisfy” those needs.
+        - substitution as a frugality strategy isn’t about downgrading pleasure. It’s about ensuring that I get precisely what I am seeking at half the cost—or no cost at all. I’m not limiting myself (waaa!), I’m focusing myself (yum!).
+        - See, substitution isn’t deprivation, it’s about getting creative.
+        - Substitution also reminds us that consumption is rooted in changing a feeling state, which is a signal that a need isn’t being filled.
+        - To try to fill these needs with material things is to set up an unquenchable appetite for false solutions to real and never-satisfied problems. The resulting psychological emptiness is one of the major forces behind the desire for material growth.
+    - Separating work wages from yourself
+        - Because life outside the workplace has lost vitality and meaning, work has ceased being a means to an end and become an end in itself.
+        - Our jobs now serve the function that traditionally belonged to religion: they are the place where we seek answers to the perennial questions “Who am I?” and “Why am I here?” and “What’s it all for?”
+        - By separating work and wages we bring together the different parts of ourselves and remember that our real work is just to live our values as best we know how.
+        - When we are whole, we don’t need to try to consume our way to happiness. Happiness is our birthright.
+        - Leisure is not an identity crisis if you know you are not your job.
+        - “My job is not the main event of my life.”
+        - An external symbol like a trophy or a pay hike might be a nice extra, but the real sign is your inner knowing that you did what you set out to do. Without that inner knowing, you may receive many outer rewards but have no sense of inner fulfillment—and no amount of honor will ever be “enough.” With that inner knowing, you can achieve just about anything.
+    - Inspiration for achieving financial independence
+        - “Financial Independence means that I don’t have to extra enjoy this minute because in the next minute it will be taken away from me. From that moment, it’s like there’s been no end to the size of the box my life fits into. Now, for me, the sky’s the limit.”
+        - It’s not that you’ve whittled your expenses down to bare subsistence. You’ve simply brought your life into harmony, and you just happen to know, to the penny, how much harmony costs.
+        - Being able to reflect on your life while you’re living it (instead of in the instant before you die) is one key to fulfillment, however you go about it.
+        - “We are called to be architects of the future, not its victims.”

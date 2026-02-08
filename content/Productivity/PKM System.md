@@ -1,0 +1,122 @@
+---
+title: Pkm System
+date: 2024-01-01 00:00:00+00:00
+draft: false
+tags:
+- my_processes
+- productivity
+description: The PKM system defines a structured workflow for quickly capturing ideas, daily journaling, goal setting, priority task selection, habit tracking, and regular (daily–yearly) reviews to categorize, prune, and apply information, using simple filing, swipe files, and concrete outputs to turn learning into actionable results.
+---
+
+- Tags: #productivity #My_Processes
+- Regular review of commonplace book materials 
+- Dumping that days lessons and accomplishments in journal at end of day
+- Setting goals for weekly monthly quarterly and yearly
+- Picking a few priority tasks for that day
+- Blocking time each day to complete priority and routine tasks
+- Tracking and building habits
+- PKM system needs:
+    - Method for quickly storing ideas
+    - Method/schedule for regularly reviewing and categorizing ideas
+    - A simple way to file information for later use
+    - Easily and effectively track goals and priorities and progress made
+    - Effective method for storing reference materials that I can easily look back on and reference
+    - Regular reviews:
+        - Daily
+        - Weekly
+        - Monthly
+        - Yearly
+    - Breaking down larger tasks into more manageable chunks
+    - Regular review system to flush out non-useful information or info that is no longer relevant
+    - Creating output/something concrete after learning
+        - Summaries of solutions that I have found
+    - For collected material, have to decide whether to study or just keep it
+    - Review of commonplace book:
+        - During regular review, ask about each bit of info:
+            - Is it relevant to my current focus?
+            - Can it be used to solve a particular problem?
+            - Does it need to be sorted into a topic or project?
+        - I have a reminder set for every 3 months, but mostly I go by instinct.
+        - I don’t re-read or review all the material at once, but I will read what piques my interest and scan through it for material that’s relevant to what I’m currently doing.
+    - Making use of fiction books that I read to improve my writing
+    - Creating swipe file for inspiration and learning
+        - I have selected a few books that I think are very well written and worked-out in a number of ways. I can return to them for different insights over the years, based on my focal point.
+        - There are a few businesses that I think are genial and inspiring in how they’re structured (Berkshire Hathaway, Bloomberg, DHL being 3 prominent ones).
+        - Action List: Create Your Review File
+            - List your TOP 5 books and other learning resources (articles, videos, audio).
+                - Divide this material into relevant categories if you have a lot of content.
+        - "If I see something I think is elegant I just copy it to my commonplace. I take a print screen, and I copy the CSS/HTML code."
+        - If the best people in your field have blogs or websites, get on their mailing lists and save all the useful things to your commonplace to sift through when you have time. Then study it in bulk to find the patterns.
+- Overall purpose of commonplace book:
+- “Your brain is a powerful machine. Stop treating it like a storage closet. Build a second one, and use your first brain for deep work and creativity.” - Unmistakable Creative
+- Principles of a great productivity system:
+    - Easy to learn: if it takes you more than an hour to learn this system, you’re doing it wrong
+    - Fast to set up: it should take a few minutes to set up your system, not hours
+    - Low Maintenance: the system helps you work faster, requiring minimal time to use it; the more friction-free you can make it the better…
+    - Model Your Work Style: a good productivity system supports the way you want to work and not the other way around; it should also be easily adaptable to multiple types of working styles
+    - Adaptable: it’s simple to tweak the system for different people, where anyone can add their preferred productivity hacks; especially relevant if used by a team
+    - Easy to Collaborate: it should be easy to scale your system being used by one person or ten thousand…
+    - Keep it easy to manage: Know your categories well so that whenever you come across useful information you know exactly where to put it, thus saving yourself time.
+    - Keep it easy to navigate: The main strength of using OneNote instead of a physical commonplace is that in OneNote it’s easier to accumulate a lot of info (copy-paste, screenshots, writing on keyboard) tag it, and easily search for it. But ideally, you shouldn’t have to search much. You should know where things are because you’ve set up your commonplace to be easy to navigate.
+- Tracking long-term goals:
+    - Map out your goals for the following timelines: 5 Years, Next Year, Current Year, 6 Months, Three Months and Current Month, using a separate page for each.
+- Four Main Tools, which determines where saved information will go:
+    - Calendar - GCal
+    - Task manager - ToDoist
+    - Read it later - Instapaper
+    - Reference app - Notion
+- Basic flow:
+    - Collect
+        - Email
+        - Social Media
+        - Reddit
+        - Clippings from Instapaper
+        - Kindle highlights
+        - Notes from reading
+    - Organize
+    - Output
+        - 3 best ways to store information: Lists, best practices, and checklists.
+- [[PARA Method of Organization]]: this organization should be spread across all tools as much as possible
+    - **Project** - series of tasks toward a goal with a deadline
+        - Divide projects into discrete actions in Notion
+        - Think out all the separate parts you can subdivide your project into.
+        - Create these categories inside your commonplace, inside an “Overview Document”. Then shortcut it.
+        - Set-and-forget. Trust your brain’s pattern recognition to find the info.
+        - Go about your life. Take notes, pictures, write down ideas whenever they come to you about the project.
+        - You now have enough material to finish the project in fewer sittings.
+    **- Area of Responsibility** - sphere or activity, such as health or productivity, that has an indefinite end date
+    **- Resource** - topic or theme of ongoing interest
+    - **Archive** - inactive items, such as old projects, areas that are no longer your focus or resources you no longer use
+- Important to remember:
+    - Projects always fall into areas of responsibility (which have no end date)
+    - Break down areas of responsibility and projects into smaller, more manageable pieces
+    - For projects, you need to:
+        - Know the extent of your commitments
+        - Connect current efforts to long-term goals
+        - Be able to track progress toward your goals
+    - Break responsibilities into bite-sized projects
+    - If you’re not currently meeting your standards in Areas, ask what projects you can put in place to change that
+    - Keep it as simple as possible. Otherwise you may lose motivation to use/play with your commonplace. If it’s not fun, you’re doing it wrong.
+    - Decide on a consistent method for how you will name and categorize the information you save, so that it becomes easy to retrieve and use the information you have stored when you want to access it later.
+- Scheduling:
+- Deciding on a few tasks to prioritize that day Setting goals weekly monthly quarterly and yearly
+    - Time Blocking:
+        - Observe your energy patterns, and work on high-value tasks when you are most active. If a given regular task is big and scary, schedule it in the mornings.
+        - Take 10 minutes every evening and plan your next day. Rearrange blocks if you must create time for other important things.
+        - Use recurring blocks for recurring tasks. For instance, I’ve scheduled two hours to write my new book every Tuesday and Thursday.
+        - Don’t over-schedule. Realistically, you can’t be productive 10 hours straight. Give yourself some time between tasks.
+        - And always schedule more time than you think you need.
+        - Take breaks every 45 minutes
+    - Purging:
+        - Monthly, go through my to do lists, commonplace book, and calendar and purge items that are no longer necessary or not important
+        - follow a timely and frequent pruning system. A system where you remove the information that makes no sense or is not useful right now and you only process that which aids your learning. The key is to put it into practice and not rely on an information repository for your knowledge.
+        - Purge email subscriptions
+        - Review file:
+            - Set a reminder to review and purge at a regular schedule
+    - Problem solving:
+        - Use it when trying to generate ideas. If you are stuck on problem, pull out your commonplace book and see if anything sparks an insight. You’ll be surprised how often you’ll spot a pattern and something will click.
+    - Create overview docs for complex tasks (such as publishing a book):
+        - Think of recurring (complex) work tasks you do.
+        - Outline the different steps you typically do.
+        - Invent a process you can use each time.
+        - If it’s a long process with many parts create an overview doc for it.

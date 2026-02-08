@@ -1,0 +1,94 @@
+---
+title: Ahrens 2017  How To Take Smart Notes
+date: 2024-01-01 00:00:00+00:00
+draft: false
+tags:
+- books
+- learning
+- productivity
+description: Ahrens (2017) argues that effective writing and note‑taking require a structured, multi‑stage workflow that minimizes reliance on willpower by integrating tasks into an interlinked system, allowing insights to drive productivity; tools alone won’t help unless daily routines are reshaped to trust and automate the process.
+---
+
+- Category: #books #Productivity #Learning
+- ahrens-2017-1: Main idea: writing doesn't just consist of sitting down to add words to the page
+    - "Writing" actually consistents of several different related tasks. Think of the different stages of the writing process as a different task. Each requires a different kind of focus, and require different techniques. For example, you don't want to start editing while you're still in the process of creating the first draft.
+    - "Not having willpower, but not having to use willpower indicates that you set yourself up for success. This is where the organisation of writing and note-taking comes into play."
+        - "Luhmann’s answer to the question of how one person could be so productive was that he never forced himself to do anything and only did what came easily to him. “When I am stuck for one moment, I leave it and do something else.” When he was asked what else he did when he was stuck, his answer was: “Well, writing other books. I always work on different manuscripts at the same time. With this method, to work on different things simultaneously, I never encounter any mental blockages.”"
+    - "Having a clear structure to work in is completely different from making plans about something." 
+    - "The challenge is to structure one’s workflow in a way that insight and new ideas can become the driving forces that push us forward." 
+    - "Even the best tool will not improve your productivity considerably if you don’t change your daily routines the tool is embedded in" 
+    - "Only when all the related work becomes part of an overarching and interlocked process, where all bottlenecks are removed, can significant change take place." 
+    - "Writing these notes is also not the main work. Thinking is. Reading is. Understanding and coming up with ideas is. And this is how it is supposed to be." 
+- ahrens-2017-2: Only if you can trust your system, only if you really know that everything will be taken care of, will your brain let go and let you focus on the task at hand. 
+    **Note**: The potential danger is perfectionism and getting caught in a permanent loop of trying to assuage your anxiety without actually getting anything done.
+- Writing a paper step by step and the organization of the process - [[Writing]]
+    - Step 1: Record any loose ideas that pop into your head without worrying about quality to your inbox. 
+        - Make sure that all collected material both handwritten and electronic ends up in one inbox so that you can later look through and determine what to keep
+        - Finding an idea should come organically based on your interests and any connections found in your ZK
+            - "When it comes to finding good questions, it is therefore not enough to think about it. We have to do something with an idea before we know enough about it to make a good judgement." 
+                - Question: I wonder how this process and advice applies to fiction writers. Or could this be something that i need to create for myself based on notes from Roam?
+        - Sometimes you need to kill your darlings and let things go when a fresher project or idea starts pointing you in a different direction.
+        - Allow yourself the space to explore more than one idea deeply at a time. You don't need to restrict yourself to taking notes on only one topic.
+        - Build your argument from the collected literature, not the other way around 
+    - Step 2: Take notes from the material you are reading, being sure to translate the ideas into your own words without blindly copying or quoting the book verbatim. 
+
+    - Step 3: A short time later, go through your notes and choose the most important and useful ones to add to your ZK and connecting these notes to other ideas and existing notes, taking note of how they connect and fit in together
+        - Look through what you have collected for any holes, deeper implications and additional connections to drive your continued research
+        - It is important, though, to understand outlining not as the preparation of writing or even as planning, but as a separate task we need to return to throughout the writing process on a regular basis. 
+    - The idea is not to collect, but to develop ideas, arguments and discussions. Does the new information contradict, correct, support or add to what you already have (in the slip-box or on your mind)? Can you combine ideas to generate something new? What questions are triggered by them? 
+- The note-taking process: [[notetaking]]
+    - Think about my ZK less as a separated bunch of notes and facts and more as a network of lines of thinking
+    - The best process should be simple so that you can focus your brainpower on what really matters - making connections between ideas - instead of rote memorization
+        - The only tools you need are something to write with, an editor, your ZK, and your references. Avoid adding new tools or processes (even if they claim to encourage productivity) as this will only make your system more complicated (and you're probably less likely to use it). Its better to have a simple system you use regularly than a complicated system that you only use rarely. [[Make Time]] has a similar idea.
+    - Read and take notes and collect information as if writing Is the Only Thing That Matters 
+        - "by doing everything with the clear purpose of writing about it, you will do what you do deliberately. Deliberate practice is the only serious way of becoming better at what we are doing" (cf. Anders Ericsson, 2008). 
+    - Think differently about organizing your notes. Instead of grouping everything under subjects, think about the contexts in which you would want to retrieve your notes.
+    - Instead of storing EVERYTHING, you need to distinguish what information is most important to keep in your ZK for future use. The types of notes that you need to be able to separate from each other and use as appropriate:
+        - Fleeting notes, which are temporary and spur of the moment
+            - **Note**: In my case, literature notes are likely what I jot down in my bullet journal as I'm reading, and it also might encompass some of the notes I make on my Kindle directly. These will be an intermediary between your reading of the book and the permanent notes added to your ZK. The length of these will depend on the complexity of the text and your familiarity with the topic at hand. For complex topics, it's expected that you'll take longer notes as you work through your understanding of the concept.
+        - Permanent notes that become part of your ZK
+        - Project notes that are specific to one project or work
+        - **Note**: I wonder if there's a practical method for keeping potentially evergreen parts if project notes for future projects (bundling your work into packets as sugested by [[Tiago Forte]]). Seems kind of a waste to delete all those materials when they could potentially be useful for future work.
+    - Create a regular system to review your notes. "A good indication that a note has been left unprocessed too long is when you no longer understand what you meant or it appears banal." 
+    - "treating a digital note as if the space were limited." - avoid thinking like an archivist (which I have a tendency to do)
+        - **Note**: 1 note (paragraph in Roam)= 1 idea
+        - Each note should fit onto the screen and there should be no need of scrolling. 
+- hermeneutic circle (Gadamer 2004). 
+- Create a positive feedback loop to create positive experiences with your work that motivate you to continue working for the opportunity to learn instead of relying on raw motivation or rewarding yourself afterward.
+    - A similar process happens with exercise
+- Deliberate practice and receiving feedback is automatically implemented in this sytem of note-taking: "To seek as many opportunities to learn as possible is the most reliable long-term growth strategy." 
+    - You need to be able to receive feedback regularly instead of only when the finished product is available.
+    - **Note**: How can I make myself more open to feedback without obsessing over the negative?
+    - "Following a circular approach, on the other hand, allows you to implement many feedback loops, which give you the chance to improve your work while you are working on it. It is not just about increasing the number of opportunities to learn, but also to be able to correct the mistakes we inevitably make. As the feedback loops are usually smaller than one big chunk of feedback at the end, they are also much less scary and easier to embrace."
+    - "We will enter a beautiful, virtuous circle of competency. You cannot help but feel motivated by it." 
+    - Critique in the form of opposing arguments serves as another form of feedback that will help you improve your writing and strengthen your skills and arguments. This will also reduce the effect of confirmation bias.
+- "Even something seemingly unrelated like being the victim of prejudices can have a significant effect (Inzlicht, McKay, and Aronson, 2006) as “controlling the influence of stereotypes (… may rely on the same…) limited-strength resource on which people draw for self-regulation” (Govorun and Payne 2006, 112)." [[psychology]] 
+    - **Note**: I've never heard this connection with unconscious bias before!
+- Adjusting your mindset about the writing process, note collection and topic organization:
+    - Look to your ZK first if you're searching for more information about a topic or comparing/contrasting ideas
+    - "This is a good rule of thumb: If insight becomes a threat to your academic or writing success, you are doing it wrong."
+    - Have the confidence in yourself to trust your own decision making abilities.
+        - Immanuel Kant described in his famous text about the Enlightenment: “Nonage [immaturity] is the inability to use one’s own understanding without another’s guidance. This nonage is self-imposed if its cause lies not in lack of understanding but in indecision and lack of courage to use one’s own mind without another’s guidance. Dare to know! (Sapere aude.) ‘Have the courage to use your own understanding,’ is therefore the motto of the Enlightenment.” (Kant 1784) 
+    - "It makes sense to always ask the question: What is not meant, what is excluded if a certain claim is made?" 
+    - "No written piece is ever a copy of a thought in our mind." 
+        - **Tags**: [[Writing]]
+    - When taking notes from a book, you don't neccesarily need to summarize the entire manuscript, but take from it which parts you need and find most relevant
+    - Create topic overview pages to help guide you through your ZK
+        - An idea for overview notes: instead of basing them as outlines to a topic, think of them as larger questions to which you're trying to find answers.
+        - "On a note like this, you can collect links to other relevant notes to this topic or question, preferably with a short indication of what to find on these notes (one or two words or a short sentence is sufficient)." 
+    - Don't think about your notes in isolation - consider new content in the context of the notes that you already have and the topics that you are interested in instead of considering each note or work in isolation.
+    - "Good keywords are usually not already mentioned as words in the note."  
+    - The structure of your ZK will develop naturall: "As we are making these connections, we build up an internal structure of the slip-box, which is shaped by our thinking. While this structure builds up externally and independently of our limited memory, it will, in return, shape our thinking as well and help us to think in a more structured way." 
+- How to think about learning:
+    - "He advocates looking out for the most powerful concepts in every discipline and to try to understand them so thoroughly that they become part of our thinking." 
+    - "We learn something not only when we connect it to prior knowledge and try to understand its broader implications (elaboration), but also when we try to retrieve it at different times (spacing) in different contexts (variation), ideally with the help of chance (contextual interference) and with a deliberate effort (retrieval)." 
+    - "intuition is not the opposition to rationality and knowledge, it is rather the incorporated, practical side of our intellectual endeavours, the sedimented experience on which we build our conscious, explicit knowledge (cf. Ahrens 2014)." 
+    - "seeing old ways of thinking as thinking routines"
+    - "Learning, thinking and writing should not be about accumulating knowledge, but about becoming a different person with a different way of thinking. This is done by questioning one’s own thinking routines in the light of new experiences and facts."
+- "It is not so much about deciding once and for all what to write in which chapter or paragraph, but what does not need to be written in a particular part of the manuscript." [[Writing]] 
+- "be generally sceptical about planning, especially if it is merely focused on the outcome, not on the actual work and the steps required to achieve a goal." [[Productivity]] 
+    - Visualize yourself working on the individual tasks that will eventually lead to a written manuscript instead of focusing on visualizing the success of your paper.
+    - Break each task down into concrete goals - whether you achieve these goals or not will also serve as a form of feedback. It's hard to be productive when you have a vague goal like "write the paper"
+- We know from sports that it doesn’t help when athletes imagine themselves as winners of a race, but it makes a big difference if they imagine all the training that is necessary to be able to win.  
+    - **Note**: This is a different method of visualization that could help me get back into writing regularly again.
+- This becomes much easier when you move the questionable passages into another document and tell yourself you might use them later. For every document I write, I have another called “xy-rest.doc,” and every single time I cut something, I copy it into the other document, convincing myself that I will later look through it and add it back where it might fit. 
