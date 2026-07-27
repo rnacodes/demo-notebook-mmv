@@ -1,3 +1,219 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ============================================================
+// My MediaVerse theme
+// Ported from the MMV design system (frontend/src/shared/DesignSystem.jsx)
+// via the mmv-quartz-handoff design tokens.
+// ============================================================
+
+// ---- Brand tokens ------------------------------------------
+:root {
+  --mmv-ultra-violet: #362759;
+  --mmv-lilac: #695a8c;
+  --mmv-signal-gold: #e9a94d;
+  --mmv-gold-light: #f4ce85;
+  --mmv-seasalt: #fcfafa;
+  --mmv-davys-gray: #474350;
+  --mmv-eerie-black: #1b1b1b;
+
+  // shape
+  --mmv-radius-sm: 4px;
+  --mmv-radius-md: 8px;
+  --mmv-radius-lg: 16px;
+  --mmv-radius-xl: 24px;
+  --mmv-radius-pill: 30px;
+
+  // depth — lg is the signature seasalt glow ("lift toward the light")
+  --mmv-shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.1);
+  --mmv-shadow-md: 0 4px 12px rgba(0, 0, 0, 0.15);
+  --mmv-shadow-lg: 0 8px 25px rgba(252, 250, 250, 0.2);
+
+  // motion
+  --mmv-transition-fast: 0.15s ease-in-out;
+  --mmv-transition-normal: 0.3s ease-in-out;
+}
+
+// ---- Type scale --------------------------------------------
+body {
+  font-size: 1.2rem; // deliberately large — MMV's most-felt type decision
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.3;
+}
+
+article {
+  h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+  h3 {
+    font-size: 2rem;
+    font-weight: 700;
+  }
+  h4 {
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+  h5 {
+    font-size: 1.25rem;
+    font-weight: 500;
+  }
+  h6 {
+    font-size: 1.125rem;
+    font-weight: 500;
+  }
+}
+
+.article-title {
+  font-size: 3rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+// ---- The signature detail ----------------------------------
+// Section headings carry a 2px ultra-violet bottom rule, the most
+// recognizable type detail in the app. Scoped to article content so
+// sidebar headings (Graph, Backlinks, TOC) stay clean.
+article {
+  h2,
+  h3 {
+    border-bottom: 2px solid var(--mmv-ultra-violet);
+    padding-bottom: 8px;
+  }
+}
+
+// The same rule recurs as the footer top-border in the app
+footer {
+  border-top: 2px solid var(--mmv-ultra-violet);
+  padding-top: 16px;
+}
+
+// ---- Links -------------------------------------------------
+a {
+  font-weight: 500;
+  text-underline-offset: 2px;
+  transition: color var(--mmv-transition-normal);
+
+  &:hover {
+    color: var(--tertiary);
+  }
+}
+
+// ---- Shape -------------------------------------------------
+// Callouts read as cards/panels in MMV: 16px radius
+.callout {
+  border-radius: var(--mmv-radius-lg);
+}
+
+// Chips are fully rounded in MMV
+a.internal.tag-link {
+  border-radius: var(--mmv-radius-xl);
+}
+
+// Search field is a pill
+.search {
+  & > .search-button {
+    border-radius: var(--mmv-radius-pill);
+    transition:
+      background-color var(--mmv-transition-normal),
+      box-shadow var(--mmv-transition-normal);
+
+    &:hover,
+    &:focus-visible {
+      box-shadow: var(--mmv-shadow-md);
+    }
+  }
+}
+
+// Search modal panel: card radius + panel depth
+.search-container > .search-space {
+  & > .search-layout,
+  & > input {
+    border-radius: var(--mmv-radius-lg);
+  }
+}
+
+// Popovers lift toward the light
+.popover > .popover-inner {
+  border-radius: var(--mmv-radius-lg);
+  box-shadow: var(--mmv-shadow-lg);
+}
+
+// Graph panel matches card shape
+.graph > .graph-outer {
+  border-radius: var(--mmv-radius-lg);
+}
+
+// ---- Sidebar / chrome --------------------------------------
+// Wordmark treatment: Roboto Bold with tightened tracking
+.page-title {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+// ---- Callout semantics -------------------------------------
+// MMV status colors mapped onto Quartz callouts:
+// success/tip = Actively Exploring, info/note = Completed,
+// warning/question = Abandoned, danger/bug/failure = Error,
+// abstract/quote = Uncharted, example = lilac (brand accent)
+.callout {
+  &[data-callout] {
+    --color: #2196f3;
+    --border: #2196f344;
+    --bg: #2196f310;
+  }
+
+  &[data-callout="info"],
+  &[data-callout="todo"] {
+    --color: #2196f3;
+    --border: #2196f344;
+    --bg: #2196f310;
+  }
+
+  &[data-callout="tip"],
+  &[data-callout="success"] {
+    --color: #4caf50;
+    --border: #4caf5044;
+    --bg: #4caf5010;
+  }
+
+  &[data-callout="warning"],
+  &[data-callout="question"] {
+    --color: #ff9800;
+    --border: #ff980044;
+    --bg: #ff980010;
+  }
+
+  &[data-callout="failure"],
+  &[data-callout="danger"],
+  &[data-callout="bug"] {
+    --color: #f44336;
+    --border: #f4433644;
+    --bg: #f4433610;
+  }
+
+  &[data-callout="abstract"],
+  &[data-callout="quote"] {
+    --color: #666666;
+    --border: #66666644;
+    --bg: #66666610;
+  }
+
+  &[data-callout="example"] {
+    --color: #695a8c;
+    --border: #695a8c44;
+    --bg: #695a8c10;
+  }
+}
