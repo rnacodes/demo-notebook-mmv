@@ -8,7 +8,6 @@ tags:
 - productivity
 description: Ahrens (2017) argues that effective writing and note‑taking require a structured, multi‑stage workflow that minimizes reliance on willpower by integrating tasks into an interlinked system, allowing insights to drive productivity; tools alone won’t help unless daily routines are reshaped to trust and automate the process.
 ---
-
 - Category: #books #Productivity #Learning
 - ahrens-2017-1: Main idea: writing doesn't just consist of sitting down to add words to the page
     - "Writing" actually consistents of several different related tasks. Think of the different stages of the writing process as a different task. Each requires a different kind of focus, and require different techniques. For example, you don't want to start editing while you're still in the process of creating the first draft.

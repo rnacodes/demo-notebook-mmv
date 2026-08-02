@@ -4,9 +4,7 @@ date: 2024-01-01 00:00:00+00:00
 draft: false
 description: Ryan Holiday’s *The Obstacle Is the Way* argues that obstacles are opportunities for growth, guided by three interrelated principles—perception, action, and will—so we think clearly, act correctly, and accept reality as it is.
 ---
-
 - Tags: [[books]] [[Philosophy]] [[Stoicism]]
-- [The Obstacle is the Way: The timeless art of turning trials into triumph by Ryan Holiday](https://www.amazon.com/dp/B00IX49OS4/) 
 - ## Conclusion:
     - First, think clearly.
     - Next, act correctly.

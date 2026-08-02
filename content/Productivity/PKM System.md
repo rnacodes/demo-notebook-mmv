@@ -7,7 +7,6 @@ tags:
 - productivity
 description: The PKM system defines a structured workflow for quickly capturing ideas, daily journaling, goal setting, priority task selection, habit tracking, and regular (daily–yearly) reviews to categorize, prune, and apply information, using simple filing, swipe files, and concrete outputs to turn learning into actionable results.
 ---
-
 - Tags: #productivity #My_Processes
 - Regular review of commonplace book materials 
 - Dumping that days lessons and accomplishments in journal at end of day
@@ -76,7 +75,7 @@ description: The PKM system defines a structured workflow for quickly capturing 
     - Organize
     - Output
         - 3 best ways to store information: Lists, best practices, and checklists.
-- [[PARA Method of Organization]]: this organization should be spread across all tools as much as possible
+- PARA Method of Organization: this organization should be spread across all tools as much as possible
     - **Project** - series of tasks toward a goal with a deadline
         - Divide projects into discrete actions in Notion
         - Think out all the separate parts you can subdivide your project into.

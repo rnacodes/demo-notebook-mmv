@@ -4,7 +4,6 @@ date: 2024-01-01 00:00:00+00:00
 draft: false
 description: Life is more than work; treat money as an exchange for your limited time and define personal success beyond material wealth. By finding non‑consumer ways to meet inner needs, you can achieve financial independence and lasting fulfillment.
 ---
-
 - Tags: [[books]] [[Financial Independence]] [[starred]] [[Money]] [[Life Advice]] [[Early Retirement]]
 - Main Lessons:
     - Life is about more than just working
@@ -17,8 +16,6 @@ description: Life is more than work; treat money as an exchange for your limited
 - Quotes and Highlights:
     - To change your spending habits, transform the way that you think about money and satisfying your needs. Remember that you are trading money for your most precious resource: your time. Discover new, non-consumer ways of inner fulfillment and free yourself from the consumer traps that keep people in a material cycle of unfulfillment. Frugality means finding more fulfilling, creative, and non-traditional ways of satisfying these needs instead of trying to "buy" solutions to your problems
         - If you live for having it all, what you have is never enough.
-        - We no longer live life. We consume it.[Read more at location 754](kindle://book/?action=open&asin=B0052MD8VO&location=754) • Delete this highlight
-        - [Add a note](https://kindle.amazon.com/user_annotation_relation/edit_note_popup?annotation_id=&asin=B0052MD8VO&attached=a1AZGGUKE6HM6Q&end_location=113074&note_area_id=editNotea1AZGGUKE6HM6Q_&note_text=&return_to=%2Fyour_highlights)
         - Our enormously productive economy . . . demands that we make consumption our way of life, that we convert the buying and use of goods into rituals, that we seek our spiritual satisfaction, our ego satisfaction, in consumption.... We need things consumed, burned up, worn out, replaced, and discarded at an ever increasing rate.
         - We have learned to seek external solutions to signals from the mind, heart or soul that something is out of balance. We try to satisfy essentially psychological and spiritual needs with consumption at a physical level.
         - Notice that while each one was still a thrill, it cost more per thrill and the “high” wore off more quickly.
