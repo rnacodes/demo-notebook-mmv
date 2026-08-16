@@ -4,7 +4,6 @@ date: 2024-01-01 00:00:00+00:00
 draft: false
 description: The note summarizes Levitin’s view that self‑worth should be decoupled from success, identifies fear of failure, task aversion, and uncertainty as primary causes of procrastination, and advises combating it by prioritizing long‑term goals, applying the procrastination equation, and taking brief daily day‑dreaming breaks, which improve productivity and creativity.
 ---
-
 - [🔗](https://www.2000books.com/wp/the-organized-mind-[[PDF]]/)https://www.2000books.com/wp/the-organized-mind-[[PDF]]/
 - "Our self-worth as a human being has to revolve around things other than [[success]], because as every entrepreneur knows, there are lots of failures."
 - "Why do we [[procrastinate]]? Here are the top reasons:

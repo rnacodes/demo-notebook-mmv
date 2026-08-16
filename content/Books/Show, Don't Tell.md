@@ -4,7 +4,6 @@ date: 2024-01-01 00:00:00+00:00
 draft: false
 description: Showing, not telling, engages readers by letting them infer emotions and events through vivid actions, dialogue, and description, while telling is best reserved for summarizing background or smooth transitions.
 ---
-
 - From: Show Don't Tell: The Ultimate Writers' Guide by Robyn Opie Parnell
 - Tags: [[books]] [[Writing]] [[Writing Fiction]]
 - Showing requires readers to participate by using their imaginations to come to their own conclusions based on the writer’s words. Writers are not telling readers. Readers are being shown what is going on and are pulled into the story because they have to interpret the writer’s meaning themselves.

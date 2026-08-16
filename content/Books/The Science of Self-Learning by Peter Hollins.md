@@ -5,7 +5,6 @@ draft: false
 description: Peter Hollins presents a self‑learning framework that starts with confidence and self‑management, leverages intrinsic motivation, and employs structured methods such as Cornell notes, the four‑step learning process, elaborative interrogation, the Feynman Technique, and speed‑reading strategies to make learning effortful and effective.
 ---
 
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FSpectacular%2Fd7z3-Y1fwf.png?alt=media&token=cfaee3b3-de06-4c81-8677-96cd66cfd157)
 - Learning success pyramid:
     - **Confidence** in your ability to learn, even if you need to go at your own pace
     - **Self-management** - setting up systems and routines beforehand

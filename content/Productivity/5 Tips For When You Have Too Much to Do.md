@@ -4,7 +4,6 @@ date: 2024-01-01 00:00:00+00:00
 draft: false
 description: Practice mindfulness to stay present, then choose one task to focus on while letting go of the urge to do everything now; cultivate gratitude and smile, accepting reality instead of stressing over an overwhelming workload.
 ---
-
 - [From Zen Habits](https://zenhabits.net/load/)
 - [[Productivity]] [[Alternative Views on Productivity]] [[Overwhelmed]]
 - 1. Use this as an opportunity to practice [[Mindfulness]]. In the middle of your stress and feeling of being overwhelmed … you have the opportunity to be present. When you notice yourself feeling this way, drop in: notice how your body feels. Take a second to observe the physical sensations of your surroundings (sounds, light, touch sensations, etc.). Notice how your body feels as your mind is spinning with anxiety or busyness.
