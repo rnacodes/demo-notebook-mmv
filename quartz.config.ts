@@ -22,19 +22,19 @@ const config: QuartzConfig = {
         body: "Roboto",
         code: "Roboto Mono",
       },
-      // My MediaVerse palette — dark mode is the faithful MMV theme,
-      // light mode is derived (seasalt stage, ultra-violet accent)
+      // My MediaVerse palette — both modes are dark like the app:
+      // light mode is the davys-gray stage, dark mode the eerie-black stage
       colors: {
         lightMode: {
-          light: "#fcfafa",
-          lightgray: "#e3e0e8",
-          gray: "#8a8594",
-          darkgray: "#474350",
-          dark: "#1b1b1b",
-          secondary: "#362759",
-          tertiary: "#695a8c",
-          highlight: "rgba(54, 39, 89, 0.10)",
-          textHighlight: "rgba(233, 169, 77, 0.45)",
+          light: "#474350",
+          lightgray: "#5a5564",
+          gray: "#a29bae",
+          darkgray: "#e3e0e8",
+          dark: "#fcfafa",
+          secondary: "#e9a94d",
+          tertiary: "#f4ce85",
+          highlight: "rgba(105, 90, 140, 0.25)",
+          textHighlight: "rgba(233, 169, 77, 0.40)",
         },
         darkMode: {
           light: "#1b1b1b",
@@ -58,7 +58,7 @@ const config: QuartzConfig = {
       }),
       Plugin.SyntaxHighlighting({
         theme: {
-          light: "github-light",
+          light: "github-dark",
           dark: "github-dark",
         },
         keepBackground: false,

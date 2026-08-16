@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Demo App": "https://demo.mymediaverseuniverse.com",
+      "My MediaVerse Demo App": "https://demo.mymediaverseuniverse.com",
     },
   }),
 }
