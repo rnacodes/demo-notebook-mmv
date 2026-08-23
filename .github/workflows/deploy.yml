@@ -6,7 +6,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -19,12 +19,5 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
 
-      - name: Copy to Droplet via SSH
-        uses: appleboy/scp-action@v0.1.7
-        with:
-          host: ${{ secrets.SSH_HOST }}
-          username: rasante
-          key: ${{ secrets.SSH_PRIVATE_KEY }}
-          source: "public/*"
-          target: "/var/www/demo-quartz"
-          strip_components: 1
+      - name: Copy to Web Root
+        run: cp -r public/* /var/www/demo-quartz/
