@@ -4,6 +4,7 @@ import FolderContent from "./pages/FolderContent"
 import NotFound from "./pages/404"
 import ArticleTitle from "./ArticleTitle"
 import Darkmode from "./Darkmode"
+import Description from "./Description"
 import ReaderMode from "./ReaderMode"
 import Head from "./Head"
 import PageTitle from "./PageTitle"
@@ -27,6 +28,7 @@ import ConditionalRender from "./ConditionalRender"
 export {
   ArticleTitle,
   Content,
+  Description,
   TagContent,
   FolderContent,
   Darkmode,
