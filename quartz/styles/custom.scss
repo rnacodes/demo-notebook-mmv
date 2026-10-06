@@ -15,6 +15,7 @@
   --mmv-seasalt: #fcfafa;
   --mmv-davys-gray: #474350;
   --mmv-eerie-black: #1b1b1b;
+  --mmv-link: #2196f3; // design-system info blue
 
   // shape
   --mmv-radius-sm: 4px;
@@ -109,6 +110,37 @@ a {
   &:hover {
     color: var(--tertiary);
   }
+}
+
+// Links inside a note use the calmer info blue; the gold stays on the
+// wordmark, the sidebar and tag chips
+article a:not(.tag-link) {
+  color: var(--mmv-link);
+
+  &:hover {
+    color: var(--tertiary);
+  }
+}
+
+// ---- Rhythm ------------------------------------------------
+// Breathing room between paragraphs and list items in a note
+article {
+  p {
+    margin: 1.25rem 0;
+  }
+
+  li {
+    margin: 0.75rem 0;
+
+    & > p {
+      margin: 0;
+    }
+  }
+}
+
+// ...and between entries in the left-hand explorer
+.explorer-ul li {
+  padding: 0.3rem 0;
 }
 
 // ---- Shape -------------------------------------------------

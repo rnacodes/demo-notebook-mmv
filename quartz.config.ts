@@ -22,19 +22,20 @@ const config: QuartzConfig = {
         body: "Roboto",
         code: "Roboto Mono",
       },
-      // My MediaVerse palette — both modes are dark like the app:
-      // light mode is the davys-gray stage, dark mode the eerie-black stage
+      // My MediaVerse palette — both modes use the app's eerie-black page
+      // background, so the notebook looks the same whatever the visitor's
+      // system color scheme is
       colors: {
         lightMode: {
-          light: "#474350",
-          lightgray: "#5a5564",
-          gray: "#a29bae",
-          darkgray: "#e3e0e8",
+          light: "#1b1b1b",
+          lightgray: "#474350",
+          gray: "#999999",
+          darkgray: "#fcfafa",
           dark: "#fcfafa",
           secondary: "#e9a94d",
           tertiary: "#f4ce85",
-          highlight: "rgba(105, 90, 140, 0.25)",
-          textHighlight: "rgba(233, 169, 77, 0.40)",
+          highlight: "rgba(105, 90, 140, 0.22)",
+          textHighlight: "rgba(233, 169, 77, 0.35)",
         },
         darkMode: {
           light: "#1b1b1b",
