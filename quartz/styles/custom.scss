@@ -138,9 +138,14 @@ article {
   }
 }
 
-// ...and between entries in the left-hand explorer
+// ...and between entries in the left-hand explorer and the
+// right-hand table of contents
 .explorer-ul li {
-  padding: 0.3rem 0;
+  padding-block: 0.5rem;
+}
+
+ul.toc-content.overflow > li {
+  padding-block: 0.4rem;
 }
 
 // ---- Shape -------------------------------------------------
